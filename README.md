@@ -1,0 +1,2 @@
+# Cooking Recipe Management System
+This Cooking Recipes Management System is designed for people who want to have a guide when cooking, dynamic variation, and recommendations of recipes. This system is inspired by recipes and cooking websites and apps. 
